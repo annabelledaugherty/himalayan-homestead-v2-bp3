@@ -1,0 +1,15 @@
+export const PRIVATE_ROOM_IMAGES = [
+  { src: '/private-rooms/imgi_4_9066113e-9ca5-425a-a9fc-91fb5fda5db3.jpg', alt: 'Private Room' },
+  { src: '/private-rooms/imgi_5_6640bf7c-0d32-4aaa-8778-eb2bf3471216.jpg', alt: 'Private Room' },
+  { src: '/private-rooms/imgi_10_6daca774-6a97-40e9-8226-c735cbf18b39.jpg', alt: 'Private Room' },
+  { src: '/private-rooms/imgi_11_c6b2e6cd-c9cc-445c-a766-70486f11b376.jpg', alt: 'Private Room' },
+  { src: '/private-rooms/imgi_12_0f2bd7a3-a1f9-4b64-ae57-776ccfbf5f7d.jpg', alt: 'Private Room' },
+  { src: '/private-rooms/imgi_77_75eb1d02-5b52-4544-a7b4-63fb3dbd276b.jpg', alt: 'Private Room' },
+  { src: '/private-rooms/imgi_78_b3edf462-afbf-4792-a24e-4cb142af0986.jpg', alt: 'Private Room' },
+  { src: '/private-rooms/imgi_79_cf489d01-914a-48f4-8c43-e4d78990eb4a.jpg', alt: 'Private Room' },
+  { src: '/private-rooms/imgi_80_2e97d25f-73e2-4852-bd2e-9980bddf6538.jpg', alt: 'Private Room' },
+  { src: '/private-rooms/imgi_81_14c2f2b8-8025-42ed-b7d3-18b91cee370d.jpg', alt: 'Private Room' },
+  { src: '/private-rooms/imgi_82_253766ef-fdcc-4fec-af13-112f0018dc10.jpg', alt: 'Private Room' },
+  { src: '/private-rooms/imgi_83_b396f6a4-37c6-4073-977d-72074c917456.jpg', alt: 'Private Room' },
+  { src: '/private-rooms/imgi_84_96c66bcb-e12b-42d5-a8c7-5106f3c6569e.jpg', alt: 'Private Room' },
+];

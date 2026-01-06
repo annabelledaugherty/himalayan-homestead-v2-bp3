@@ -1,0 +1,18 @@
+export const TWO_BHK_IMAGES = [
+  { src: '/2bhk-images/imgi_21_0b4742dd-5367-4583-acf2-8f46a517dbc3.jpg', alt: '2BHK Homestay' },
+  { src: '/2bhk-images/imgi_33_43fbfb3e-3d71-4e38-abea-be7e5f0981f8.jpg', alt: '2BHK Homestay' },
+  { src: '/2bhk-images/imgi_34_89bf479b-b6b7-4d65-97ce-8a97d444958c.jpg', alt: '2BHK Homestay' },
+  { src: '/2bhk-images/imgi_104_a4e35648-00d6-43f8-a46e-e45a63a5d4cb.jpg', alt: '2BHK Homestay' },
+  { src: '/2bhk-images/imgi_105_ca220948-3a78-4c5a-96f1-3cbd5ab5e277.jpg', alt: '2BHK Homestay' },
+  { src: '/2bhk-images/imgi_106_52aacf1d-17b9-4918-ab06-f8fcb74cc912.jpg', alt: '2BHK Homestay' },
+  { src: '/2bhk-images/imgi_107_bef4ba2f-041d-4c9a-856e-04e4a2f92f02.jpg', alt: '2BHK Homestay' },
+  { src: '/2bhk-images/imgi_108_5e8455ea-aec1-49cf-b0e7-dc13d898d8ec.jpg', alt: '2BHK Homestay' },
+  { src: '/2bhk-images/imgi_109_ce0e06fa-0722-4582-b027-f061d55ed0c8.jpg', alt: '2BHK Homestay' },
+  { src: '/2bhk-images/imgi_121_f304b583-a0d3-43c3-a096-6b6967c4abfd.jpg', alt: '2BHK Homestay' },
+  { src: '/2bhk-images/imgi_122_b92eb6cb-2906-4f49-8056-a77144a117ec.jpg', alt: '2BHK Homestay' },
+  { src: '/2bhk-images/imgi_123_64cb630f-ac96-41c5-aa62-859268a26423.jpg', alt: '2BHK Homestay' },
+  { src: '/2bhk-images/imgi_124_68f02d57-1a69-4bab-9178-ece1e5d4dce9.jpg', alt: '2BHK Homestay' },
+  { src: '/2bhk-images/imgi_125_c5bda4c5-4452-4481-b74e-f9303172d18a.jpg', alt: '2BHK Homestay' },
+  { src: '/2bhk-images/imgi_127_153338f2-882c-4d0e-a89c-666e9d94c067.jpg', alt: '2BHK Homestay' },
+  { src: '/2bhk-images/imgi_128_1a147d2e-ce77-4881-b6e7-d2dd74f50b39.jpg', alt: '2BHK Homestay' },
+];
